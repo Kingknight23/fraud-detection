@@ -14,25 +14,24 @@ Accomplish three major tasks:
 
 
 
-##Files
-#Query Files
+## Files
 
--schema.sql
+Query Files
+  
+    -card_holder.sql
+    -credit_card.sql
+    -merchant.sql
+    -merchant_category.sql
+    -transaction.sql
+    -all_tables_seed.sql
 
--seed.sql
+CSV Files
 
-#CSV Files
-
--card_holder.csv
-
-
--credit_card.csv
-
--merchant_category.csv
-
--merchant.csv
-
--transaction.csv
+    -card_holder.csv
+    -credit_card.csv
+    -merchant_category.csv
+    -merchant.csv
+    -transaction.csv
 
 
   
