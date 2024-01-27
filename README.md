@@ -13,4 +13,26 @@ Accomplish three major tasks:
   -Data Analysis: Examine the data to detect any fraudulent transactions.
 
 
+
+##Files
+#Query Files
+
+-schema.sql
+
+-seed.sql
+
+#CSV Files
+
+-card_holder.csv
+
+
+-credit_card.csv
+
+-merchant_category.csv
+
+-merchant.csv
+
+-transaction.csv
+
+
   
